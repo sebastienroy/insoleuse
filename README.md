@@ -5,19 +5,27 @@ Les dimensions de l'insoleuse permettent l'utilisation d'un chassis-presse de di
 La source d'UV est constituée de 4 tubes fluorescents (voir nomenclature).  
 La hauteur de la boite suit la rêgle suivante  (de Lorentz ?):  
 Pour avoir une insolation homogène, la distance entre le haut des tubes et le chassis-presse doit être au minimum égale à la distance intertube.
-  
-Menuiserie:  
-Voir fichier nomenclature  
 
-Source UV (fournisseur francelampes.com):  
+[Dossier de plan](https://github.com/sebastienroy/insoleuse/blob/main/Insoleuse%2030x40%20-%20Dossier%20de%20plans.pdf)  
+[Notice de montage du coffre](https://github.com/sebastienroy/insoleuse/blob/main/Insoleuse%2030%20x%2040%20-%20Notice%20de%20montage%20du%20coffre.pdf)  
+[Elements du montage électrique ](https://github.com/sebastienroy/insoleuse/blob/main/INSOLEUSE%2030%20x%2040%20El%C3%A9ments%20du%20Montage%20%C3%A9lectrique.pdf)  
+
+## Fournitures  
+
+Menuiserie:  
+Voir fichier [nomenclature](https://github.com/sebastienroy/insoleuse/blob/main/Nomenclature.xlsx)  
+
+[Source UV](https://github.com/sebastienroy/insoleuse/blob/main/NomenclatureFranceLampes.png) (fournisseur francelampes.com):  
 - 4 tubes UV (lumière actinique)  
 - 2 ballasts électroniques (1 pour 2 tubes)  
 - Kit douilles  
 
-Electricité:
+[Electricité](https://github.com/sebastienroy/insoleuse/blob/main/NomenclatureRs-online.png):
 - cable électrique
 - Fiche 220V
 - Interrupteur avec voyant
+
+  La consommation électrique est approximativement de 40W, ce qui fait donc moins de 0,5A en 220V. Les chutes de fils de cuivre du kit douille peuvent être utilisées pour le raccordement Fiche 200V / interrupteur / Ballasts.  
 
 ## Chassis-presse
 Le chassis presse se fabrique à partir d'une cadre photo premier prix (pour éviter le traitement anti UV).  
