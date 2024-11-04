@@ -19,6 +19,10 @@ Electricité:
 - Fiche 220V
 - Interrupteur avec voyant
 
+## Chassis-presse
+Le chassis presse se fabrique à partir d'une cadre photo premier prix (pour éviter le traitement anti UV).
+
+
   
   
 
