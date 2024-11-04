@@ -20,7 +20,13 @@ Electricité:
 - Interrupteur avec voyant
 
 ## Chassis-presse
-Le chassis presse se fabrique à partir d'une cadre photo premier prix (pour éviter le traitement anti UV).
+Le chassis presse se fabrique à partir d'une cadre photo premier prix (pour éviter le traitement anti UV).  
+Le chassis-presse contient 2 volets de dimensions 1/3 - 2/3. Les volets sont fabriqués en contreplaqué de 18mm, suffisamment épais pour ne pas se déformer sous la pression des "ressorts".  
+Les volets sont reliés entre eux par l'intermédiaire de deux charnieres. Il sont recouverts d'une feutrine de 5mm d'épaisseur.  
+Des lattes de sommier coupées à 30 cm servent de ressort. Elle sont fixées au cadre d'un coté par une charniere et de l'autre par un crochet de meuble.  Les fixation sont situées sur le cadre de façon à passer par le milieu des volets (1/2 - 2/3).  
+Une chute de feutrine repliée sert à compléter la distance latte-volet pour faire ressort.  
+
+
 
 
   
