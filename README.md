@@ -9,7 +9,7 @@ Pour avoir une insolation homogène, la distance entre le haut des tubes et le c
 Menuiserie:  
 Voir fichier nomenclature  
 
-Source UV:  
+Source UV (fournisseur francelampes.com):  
 - 4 tubes UV (lumière actinique)  
 - 2 ballasts électroniques (1 pour 2 tubes)  
 - Kit douilles  
