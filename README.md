@@ -24,6 +24,7 @@ Voir fichier [nomenclature](https://github.com/sebastienroy/insoleuse/blob/main/
 - cable électrique
 - Fiche 220V
 - Interrupteur avec voyant
+- Goulottes électrique de section 20x10mm
 
   La consommation électrique est approximativement de 40W, ce qui fait donc moins de 0,5A en 220V. Les chutes de fils de cuivre du kit douille peuvent être utilisées pour le raccordement Fiche 200V / interrupteur / Ballasts.  
 
